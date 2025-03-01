@@ -9,7 +9,7 @@ This project is a **Customer Database Management Portal** built with Laravel. It
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-repo/laravel-customer-api.git
+git clone -b master https://github.com/Amit-Kumar55/customer_management.git
 cd laravel-customer-api
 
 2️⃣ Install Dependencies
